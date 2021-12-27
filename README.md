@@ -7,4 +7,4 @@ Utilizo el tema academic: https://github.com/wowchemy/starter-hugo-academic
 Content for Map'H - A website created with R, using the {blogdown} package, uploaded to github, and automatically updated to netlify for web publishing. 
 Sounds complicated, it's easy.
 
-Abajo link al blog, donde probablemente habra un *tutorial* que siga los pasos
+Abajo link al blog, donde probablemente habrá un *tutorial* que siga los pasos
